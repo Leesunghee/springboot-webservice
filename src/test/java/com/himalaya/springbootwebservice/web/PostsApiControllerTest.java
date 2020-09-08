@@ -2,7 +2,6 @@ package com.himalaya.springbootwebservice.web;
 
 import com.himalaya.springbootwebservice.domain.posts.Posts;
 import com.himalaya.springbootwebservice.domain.posts.PostsRepository;
-import com.himalaya.springbootwebservice.web.dto.PostsResponseDto;
 import com.himalaya.springbootwebservice.web.dto.PostsSaveRequestDto;
 import com.himalaya.springbootwebservice.web.dto.PostsUpdateRequestDto;
 import org.junit.After;
